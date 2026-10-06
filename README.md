@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a BS Software Engineering student at the **University of Gujrat** (CGPA 3.36/4.00, graduating 2027). I like turning real workflows, such as donations, hostels, and libraries, into working software on top of well-designed databases. Alongside that, I'm building depth in **Generative AI and AI agent development**.
+I'm a BS Software Engineering student at the **University of Gujrat** (Graduating 2027). I like turning real workflows, such as donations, hostels, and libraries, into working software on top of well-designed databases. Alongside that, I'm building depth in **Generative AI and AI agent development**.
 
 <p align="center">
   <img src="assets/terminal.svg" alt="Terminal showing: Zujaja Arif, Software Engineering Student. Skills: C++, C#, Python, JavaScript, SQL. Focus: Generative AI, AI Agents, Database Systems. Status: open to internships." width="720" />
