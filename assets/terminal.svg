@@ -1,1 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" role="img" aria-label="Terminal: Zujaja Arif, Software Engineering Student, skills and current focus">
+  <rect x="1" y="1" width="798" height="298" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="798" height="36" rx="10" fill="#161b22"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="19" r="6" fill="#27c93f"/>
+  <text x="400" y="24" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8b949e">zujaja@github: ~/profile</text>
 
+  <g font-family="Consolas, Menlo, monospace" font-size="16">
+    <text x="28" y="76"><tspan fill="#2dd4bf">$</tspan><tspan fill="#ffffff"> whoami</tspan></text>
+    <text x="28" y="100" fill="#cbd5e1">Zujaja Arif · Software Engineering Student · University of Gujrat</text>
+
+    <text x="28" y="142"><tspan fill="#2dd4bf">$</tspan><tspan fill="#ffffff"> skills --languages</tspan></text>
+    <text x="28" y="166" fill="#cbd5e1">C++ · C# · Python · JavaScript · SQL</text>
+
+    <text x="28" y="208"><tspan fill="#2dd4bf">$</tspan><tspan fill="#ffffff"> focus</tspan></text>
+    <text x="28" y="232" fill="#cbd5e1">Generative AI · AI Agents · Database Systems</text>
+
+    <text x="28" y="274"><tspan fill="#2dd4bf">$</tspan><tspan fill="#ffffff"> status</tspan></text>
+    <text x="28" y="298" fill="#8b5cf6" opacity="0"> </text>
+  </g>
+  <text x="120" y="274" font-family="Consolas, Menlo, monospace" font-size="16" fill="#cbd5e1">Open to Software Engineering internships</text>
+  <rect x="470" y="260" width="9" height="18" fill="#2dd4bf">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
