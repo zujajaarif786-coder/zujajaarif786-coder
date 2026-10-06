@@ -1,1 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Zujaja Arif, Software Engineering Student">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#141b34"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.6">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
 
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+
+  <!-- faint code texture -->
+  <g font-family="Consolas, Menlo, monospace" font-size="14" fill="#94a3b8" opacity="0.18">
+    <text x="760" y="50">class Library : public Catalog {</text>
+    <text x="760" y="80">  std::vector&lt;Donor&gt; donors;</text>
+    <text x="760" y="110">SELECT * FROM students WHERE room_id = ?;</text>
+    <text x="760" y="140">def analyze(data): return summary(data)</text>
+    <text x="760" y="170">INSERT INTO fees (student_id, amount)</text>
+    <text x="760" y="200">public void ReturnBook(int id) {</text>
+    <text x="760" y="230">cart.addItem(product);</text>
+    <text x="760" y="260">}</text>
+  </g>
+
+  <!-- network motif -->
+  <g stroke="#2dd4bf" stroke-opacity="0.35" stroke-width="1.2" fill="none">
+    <line x1="1000" y1="80" x2="1100" y2="150"/>
+    <line x1="1100" y1="150" x2="1200" y2="100"/>
+    <line x1="1100" y1="150" x2="1060" y2="250"/>
+    <line x1="1060" y1="250" x2="1180" y2="230"/>
+    <line x1="1200" y1="100" x2="1180" y2="230"/>
+  </g>
+  <g fill="#2dd4bf">
+    <circle cx="1000" cy="80" r="5"><animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="150" r="7"><animate attributeName="opacity" values="1;0.4;1" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1200" cy="100" r="5"><animate attributeName="opacity" values="0.4;1;0.4" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="1060" cy="250" r="5"><animate attributeName="opacity" values="1;0.4;1" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1180" cy="230" r="6" fill="#8b5cf6"><animate attributeName="opacity" values="0.4;1;0.4" dur="5.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- text -->
+  <text x="80" y="140" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#ffffff">Zujaja Arif</text>
+  <text x="80" y="190" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="url(#accent)">Software Engineering Student</text>
+  <text x="80" y="232" font-family="Consolas, Menlo, monospace" font-size="18" fill="#cbd5e1">C++ · C# · Python · JavaScript   |   Generative AI   |   Database Systems</text>
+  <rect x="80" y="256" width="140" height="4" rx="2" fill="url(#accent)"/>
+</svg>
